@@ -1,0 +1,38 @@
+Finergo---search(search hits downstream ocv &RM)
+
+overview or retrieve ---ocv search,RM, Ambit
+
+RM(relation manager) --CPID & Relationship Contact
+
+***Ambit call****
+Business limits, Asset Finance limits, Total business limits, Anz Consumer Limits, Non Anz Limits
+
+zos cap(downstream)--DDA products(4), commercial cards, Tailored commercial facility(ccms products)
+ELS  ---other(3)
+
+
+search  
+overview(RM,AOCM)
+getfacility(ZOS-DDA,ILS,PCA,CCMS)(ELS,ENIMINITY GUARENTEE(IG), Ambit)
+TempOD(credit assessment,fulfillment,)
+
+Z:\01 - Project Documentation\NWOW\Midmarket_Nwow773\06- Test Artefacts\PNV Stub URL
+
+http://clppnvmountebank2526-fenergo-dev-di1001.apps-int.di1001.cpaas.test/imposters  ---url to check mountebank new
+
+http://clposepnv2526-fenergo-qa-srdqa01-mw.apps.cpaas.qa.service.test/   ------url to  check muntebank old
+
+SIT:
+https://apisit.corp.dev.anz/ocv/ocv-retrieve-party-api/parties/retrieve?relationshipsRequired=TRUE&relationshipType=CLG&additionalAttributesRequired=true (new response for retrieve)
+
+http://clppnvmountebank4500-fenergo-dev-di1001.apps-int.di1001.cpaas.test/  ----xl replaced URL
+
+QA POSTMAN
+http://clposepnv3000-fenergo-qa-srdqa01-mw.apps.cpaas.qa.service.test/ocv/ocv-retrieve-party-api/parties/retrieve?relationshipsRequired=TRUE&relationshipType=CLG (old response)
+
+https://fenergo-mw-tokendashboard.bow.np.au1.aws.anz.com/refresh-zos-token-sit-env1.html  ----token generation for APPNV
+
+https://jsoneditoronline.org/#right=local.pimupu&left=local.qucire   ----json
+
+
+

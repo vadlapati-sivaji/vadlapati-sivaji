@@ -1,0 +1,49 @@
+d:/Jmeter_CPAAS/clp-jmeter/deploy/oclogin.sh
+
+
+helm uninstall distributed-jmeter      ----to uninstall
+
+
+helm install distributed-jmeter ./ --values values.yaml
+Error: INSTALLATION FAILED: open values.yaml: The system cannot find the file specified.
+(if this error occures)
+
+cd deploy
+
+helm install distributed-jmeter ./ --values values.yaml    ---to install
+
+
+
+$ d:/Jmeter_CPAAS/clp-jmeter/deploy/master_script_execution_loadtest.sh   ---to execute
+
+
+
+oc get pods    ---to see the pods
+
+ls  ---to see the files in the folder
+
+
+
+./alpaca_v1.3.1_linux-amd64 -d GLOBALTEST -u vadlapasadmin -C http://tlpaclb-qa.intranetlb-qa.anz:9001/proxy.pac
+
+
+# ps -ef
+ls
+https://console.apps.di1001.cpaas.test/
+
+ctrl +c to stop test
+
+pwd  --to check the current path
+ls   --what is there in that path
+cd bin --to go to that path
+ls -ltr  ---how many are there in that path
+chmod 777 FilterResults.sh  --dont know
+ls -ltr
+cd ..  --how many files are there
+./FilterResults.sh  --after going to that path to open anything
+
+
+
+
+
+

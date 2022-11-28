@@ -1,0 +1,34 @@
+*******************db quires*************************
+
+Before raising the request take screenshot of
+select * from PPE_CORE.ppe_packet
+select * from PPE_CORE.ppe_document
+Raise a request from UI/API
+Take all the UI Screenshots(From In storage to Image Requested/Packet Requested,History and Notes)
+select * from PPE_CORE.ppe_packet
+select * from ppe_core.ppe_coversheet
+select * from ppe_Core.ppe_Business_event
+select * from PPE_CORE.ppe_rel_packet_case
+Upload a file
+select * from PPE_Batch_Mgmt where batch_id='MVP2nany_0005'
+select * from PPE_Batch_Step_Packet_Mgmt where batch_id='MVP2nany_0005'
+select * from PPE_Batch_Step_Document_Mgmt where batch_id='MVP2nany_0005'
+select * from PPE_CORE.ppe_packet
+select * from PPE_CORE.ppe_document
+select * from PPE_CORE.ppe_rel_packet_case
+seect * from ppe_core.ppe_Coversheet
+select * from ppe_Core.ppe_Business_event
+
+
+
+
+select * from ppe_batch.ppe_batch_mgmt where batch_id='SAGe09ur57b3jtl'
+
+select count (*) from ppe_batch.PPE_Batch_Step_Packet_Mgmt where batch_id='SAGe09ur57b3jtl'
+
+select * from ppe_batch.PPE_Batch_Step_Document_Mgmt where batch_id='SAGe09ur57b3jtl'
+
+select count (*) from ppe_batch.PPE_Batch_Step_Document_Mgmt where batch_id='SAGe09ur57b3jtl'
+
+
+

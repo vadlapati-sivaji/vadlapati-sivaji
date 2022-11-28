@@ -1,0 +1,27 @@
+splunk
+username: vadlapasadmin
+Password: Sanjdu@818481
+
+
+https://techops-splunkqa.apps.anz:8000/en-GB/app/search/search?q=search%20index%20%3D%20au_k8s_bl_app%20openshift_cluster%3D%22Shared-DEV%22%20sourcetype%3Dopenshift_logs%20openshift_container_name%3D%22ppe-core%22%20jwks&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-60m%40m&latest=now&display.page.search.showFields=1&sid=1622771406.4799109_1DB56B34-50E7-4D4B-9733-BBA2B2D441AA
+***spluck quiry*******
+index = au_k8s_bl_app openshift_cluster="Shared-QA" sourcetype=openshift_logs openshift_container_name="ppe-batch"
+
+
+
+
+Dynatrace
+
+anzmailid to login: Sivaji.Vadlapati@anz.com
+
+https://sso.dynatrace.com/action/signin?goto=https%3A%2F%2Fpyx45104.live.dynatrace.com%2Findex.jsp%3FSHA%3D0#email-verification-page
+
+REQ3022923
+RITM3654708  -new
+
+
+
+
+new relic
+https://one.newrelic.com
+umagaru email.id

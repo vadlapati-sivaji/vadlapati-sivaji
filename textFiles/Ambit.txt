@@ -1,0 +1,34 @@
+appau101mel1092.globaltest.anz.com
+
+appau101mel1093.globaltest.anz.com
+
+60640   --PPM ID
+******************to raise request for vm access********
+
+https://anztech.service-now.com/techassist?id=sc_cat_item&sys_id=ecb29dfe4f5f930821da70021310c73e
+
+***************scope********
+https://confluence.service.anz/pages/viewpage.action?spaceKey=BLE&title=3.+AMBIT+22.1+-+Scope
+
+VENKATA KALYAN REDDY RAMIREDDY -- Manual Testing
+
+*****Env team******
+Prasath Shanmugam
+Raguvaran N
+
+
+
+Origination: 
+Origination: https://afquotegafpv.dev.anz/Inbox/Opportunities
+
+ Enterprise: https://afquotegafpv-enterprise.dev.anz:8443/Main/Dashboard/Welcome?Length=4#  
+
+
+Users  PVT001 - PVT160
+
+
+Password1
+
+
+
+

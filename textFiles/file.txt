@@ -1,0 +1,35 @@
+Done Scripting for DOCBOX Application in loadrunner
+Done JMeter POC in DOCBOX and Migrated all the Scripts to JMeter
+Done loadtest for DOCBOX with full userload in loadrunner
+Done loadtest for DOCBOX in JMeter using master and slave concept i.e., distributed load to 3 Virtual Machines
+Done scripting for CLP Application which contains 12 Scripts in JMeter and loaddrunner
+Performed Loadtest,Soaktest, Stress test in JMeter tool for CLP using Master and Slave concept
+Done few Scripts for Ambit Application in loadrunner and JMeter
+Done scripting for LSM Application in Trueclient protocol and ran a loadtest with 40 users
+Done Few scripts for DOCX Application in loadrunner and JMeter using proxy and alpaca Application
+Done scripting in API for DOCBOX in loadrunner and JMeter
+Migrated all the Scripts to JMeter in SBMA Application
+Executed loop function for DOCX Application in JMeter
+Created the Montebank stubbs for CLP, Captured and replayed the responces
+Solved the Document upload issue in JMeter for CLP Application which makes complete migration to JMeter making independent of loadrunner
+Done Two Hours CPAAS testing for JMeter using one masterpod, Two slave pods, alpaca Application to send request through proxy
+Configured Grafana for CPAAS testing i.e., testing directly through pods independent of VM's
+Converted Loadrunner scripts to JMeter using custom proxy
+
+Recorded the scripts in Blazemeter tool
+Recorded the JMeter scripts through proxy for DOCX Application
+Recorded and Ran the Scripts in alpaca by configuring Server IP and Port in Scripts
+
+
+Good in Postman Application and created the Scripts in loadrunner and JMeter using SIT API's
+Monitored the test runs using performance monitoring tools like Dynatrace and Splunk
+Configured the Grafana for load, soak, stress test in JMeter and in CPAAS Testing 
+
+
+
+
+
+
+
+##Given KT Session for Sales force Application PnV team about how to record the Application throght proxy, How to record through Blazemeter, How to configure the alpaca in the script
+

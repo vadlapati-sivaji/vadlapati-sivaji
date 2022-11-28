@@ -1,0 +1,9 @@
+1.why mountebank
+2.difference between postman and mountebank
+
+4.each flow contains stub calls?
+5. to check wheather downstream is up or not need to check every scripts flows
+//8. In different scripts downstream serves the same type of data or different.
+6.how many stubs are there
+7.to create stub on our own what is our requirement? who provide them?
+3.what after capturing the responce
