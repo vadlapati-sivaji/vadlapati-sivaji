@@ -1,0 +1,66 @@
+https://fenergo-web-pnv1.bow.np.au1.aws.anz.com/FenergoMMO.Web
+
+\\svrau055csm00.oceania.corp.anz.com\General\TEPSS\Managed Services Testing\Performance Engineering
+
+http://tlpaclb-qa.intranetlb-qa.anz:9001/proxy.pac
+
+alpaca_v1.2.0_windows-amd64.exe -d GLOBALTEST -u veeradiaadmin -C http://tlpaclb-qa.intranetlb-qa.anz:9001/proxy.pac
+
+alpaca_v1.2.0_windows-amd64.exe -d GLOBALTEST -u vadlapasadmin -C http://tlpaclb-qa.intranetlb-qa.anz:9001/proxy.pac
+
+10.52.42.230:80
+
+2001509346
+
+tester1.mmlo@anznp.com
+   
+
+ Password1@
+
+
+ES with CLG Number	2001512712	DONG SHOU WENG CLG	4
+ES with CLG Number	4020577572	ABDUL CARIM AUSTRALIA GROUP CLG	6
+ES with CLG Number	4011010292	SAGIAN CLASS TRUST	10
+ES with CLG Number	2005860228	ABDUL LATIFF SUPPLIES GROUP CLG	15
+Individual Retrieve	 	KRAMER JOSSE	 
+Business Name Search	 	WERTH PROPERTY SERVICES	 
+ABN ID 	94905132215	 	 
+ACN ID 	160841912	 	 
+
+   
+CLP number: 4011010292
+
+PnV1_CLG_ES_6Cust_
+
+C:\Program Files (x86)\HPE\LoadRunner\Bin
+
+Doc_Search
+
+CanonicalIngestNB_R3.0_1Cust_
+
+// "data":{"Document_Id":75,"
+
+
+web_reg_save_param("C_DocumentID1","LB= \"Document_Id\":","RB= ,",LAST);
+
+web_reg_save_param("C_DocumentID2","LB=\"Document_Id\":","RB=,",
+		LAST);
+	
+	{"data":{"CaseId":1102,"CreditAssessment_Id":46,"CreditAssessment_CreditRiskRating
+
+web_add_header("Content-Type","application/json");
+
+web_reg_save_param("C_CAID","LB=\"CreditAssessment_Id\":","RB=,","NotFound=Warning",LAST);
+
+web_reg_save_param("C_CAVersion","LB=\"CreditAssessment_RowVersion\": \"","RB=\",",LAST);
+
+web_reg_save_param("C_DocumentID1","LB= \"Document_Id\":","RB= ,",LAST);
+
+"text":"Data has been updated successfully"
+
+"Document Search"
+
+"DocumentName": "1 MB_03-11",
+
+
+                    

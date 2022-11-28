@@ -1,0 +1,11 @@
+jmeter.bat -R 10.204.104.170,10.204.104.171,10.204.104.172 -n -t "D:\ajay\Jmeter\Jmeter_scripts\Scenario\TEST1.6_Loadtest.jmx" -l "D:\JMeter_Results\TEST1.6_Loadtest17052022.jtl"
+
+jmeter.bat -n -t "D:\ajay\Jmeter\Jmeter_scripts\Scenario\TEST1.6_Loadtest.jmx" -l "D:\JMeter_Results\TEST1.6_2Loadtest17052022.jtl"
+
+jmeter -n -t sivaji-CLP-login.jmx -r -l result.jtl
+jmeter -n -t "D:\ajay\Jmeter\Jmeter_scripts\Scenario\TEST1.6_Loadtest.jmx" -r -l "D:\JMeter_Results\TEST1.6_2Loadtest17052022.jtl"
+
+D:\apache-jmeter-5.4.3\apache-jmeter-5.4.3\bin\FilterResults.bat --output-file "D:\JMeter_Results\filter_test10.csv" --input-file "D:\JMeter_Results\LoadTest_test10.jtl" --start-offset 675 --end-offset 3600
+
+
+jmeter.bat -n -t "D:\Scripts\R6.0\Jmeter Scenario\LoadTest2hrs_R6.0.jmx" -r -l "D:\JmeterResults_R6.0\2HR_Test_19Jul.jtl"
