@@ -1,9 +1,0 @@
-1.control panel > Network and internet > Internet options > Advanced > Enable Integrated windows Authentication
-
-2.control panel > Network and internet > Internet options > Security > Trusted sites > Disable enable protected mode & > sites > add site(auth.service.dev)
-
-3.control panel > Network and internet > Internet options > Security > Local intranet > Disable enable protected mode &> custom level > select promt for user name and password(at bottom) 
-
-4.control panel > Network and internet > Internet options > Security > Disable enable protected mode(not sure to enable or disable)
-
-5.control panel > Network and internet > Internet options >privacy > Turn on popup blocker(not sure to turn on or off)

@@ -1,7 +1,0 @@
-cmd, cd "Program Files"
-c:\Program Files>mkdir Telegraf    --Telegraf folder is created
-
-2. copied telegraf files in this folder
-
-3.C:\Program Files\Telegraf>telegraf.exe -service install
-   net start telegraf

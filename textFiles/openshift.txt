@@ -1,4 +1,0 @@
-https://console.cpaas.qa.service.test/
-
-username- vadlapasadmin
-password- adminpassword

@@ -1,7 +1,0 @@
-https://aeh8tu1ra.accounts.ondemand.com/saml2/idp/sso?sp=https://www.successfactors.com/anzbankingT1&idp=https://aeh8tu1ra.accounts.ondemand.com
-
-
-
-User Name: LMSADMINSUG
-
-Password: Peoplehub@123

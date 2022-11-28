@@ -1,1 +1,0 @@
-https://confluence.service.anz/display/ART/API+Testing+using+Postman

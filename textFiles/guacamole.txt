@@ -1,3 +1,0 @@
-https://guacamole.svc.np.au1.aws.anz.com/#/
-vadlapas
-adminpassword

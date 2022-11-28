@@ -1,8 +1,0 @@
-https://github.service.anz/aprart/Mocks-Stubs-Mountebank
-
-git clone (path from code)
-git status
-git add .
-git commit -m "Updated for Jmeter"
-git push origin master
-(lanid username/pwd)
